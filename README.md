@@ -21,6 +21,9 @@ Welcome to Snapgram, project that brings the essence of social media interaction
 ### 🏠 Home Page
   ![Home Page Screenshot](https://i.ibb.co/g6nrzB9/Screenshot-28.png)
 
+### 🔍 Profile Page
+  ![Profile Page Screenshot](https://i.ibb.co/xfS4Gd8/Screenshot-30.png)
+
 ### 🔍 Sign-up Page
  ![Sign-up Page Screenshot](https://i.ibb.co/3YJf6BL/Screenshot-29.png)
 
